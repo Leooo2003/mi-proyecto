@@ -1,0 +1,11 @@
+.galeria{
+display: flex;
+
+flex-direction: column;
+}
+.productos_galeria{
+ display: flex;
+ justify-content: space-evenly;
+padding-left: 100px;
+margin-block: 10px; 
+}

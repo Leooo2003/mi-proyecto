@@ -1,0 +1,8 @@
+.h1{
+    display: flex;
+    justify-content: center;
+}
+.h3{
+    display: flex;
+    display: inline-block;
+}
